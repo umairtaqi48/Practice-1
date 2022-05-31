@@ -1,6 +1,3 @@
-from sklearn.exceptions import UndefinedMetricWarning
-
-
 # Author: Umair
 # Location: Pakistan
 # Date: 29-05-2022
